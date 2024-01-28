@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+A undergraduate from USTC.
 
-Maybe say a some things about yourself.
+Keen on writing notes or something else.
 
-Or maybe what you plan to blog about.
+Best wishes!
