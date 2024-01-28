@@ -1,4 +1,4 @@
-# 一位中科大少院同学的自述
+## 一位中科大少院同学的自述
 <!DOCTYPE html>
 <html lang="en">
 <head>
